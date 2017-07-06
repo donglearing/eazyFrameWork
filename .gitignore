@@ -1,0 +1,49 @@
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Editor Files #
+################
+*~
+*.swp
+
+# Gradle Files #
+################
+.gradle
+
+# Build output directies
+/target
+*/target
+/build
+*/build
+*/bin
+*/*/target
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse specific files/directories
+.classpath
+*/.classpath
+.project
+*/.project
+.settings
+*/.settings
+.metadata
+*/.metadata
+
+
+# NetBeans specific files/directories
+.nbattrs
