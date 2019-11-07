@@ -13,6 +13,12 @@ public class ArrayUtil {
         return !ArrayUtils.isNotEmpty(array);
     }
 
+
+
+
+
+
+    
     public static boolean isEmpty(Object[] array) {
         return ArrayUtils.isEmpty(array);
     }
